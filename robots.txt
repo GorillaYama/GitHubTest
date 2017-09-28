@@ -6,4 +6,4 @@ Disallow:
 
 No crawling allowed.
 
-## No crawling allowed.
+## No crawling allowed. Crawlers beware!
