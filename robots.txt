@@ -7,4 +7,3 @@ Disallow:
 No crawling allowed.
 
 ## No crawling allowed.
-Crawling crawling crawling.
